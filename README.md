@@ -1,3 +1,3 @@
-# python
-- Something written in .py and .ipynb
-- The branches are different topics
+# python(.py and .ipynb)
+- Introduction to python and package is in *Intro and package*
+- Codes for Data science is in *Topics*
